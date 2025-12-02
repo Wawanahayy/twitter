@@ -1,0 +1,9 @@
+[
+  { "type": "like",     "tweetUrl": "https://x.com/Wawanahayy/status/1990784465220874440" },
+  { "type": "retweet",  "tweetUrl": "https://x.com/Wawanahayy/status/1990784465220874440" },
+  { "type": "reply",    "tweetUrl": "https://x.com/Wawanahayy/status/1990784465220874440", "text": "ngopi durung lek" },
+  { "type": "quote",    "tweetUrl": "https://x.com/Wawanahayy/status/1990784465220874440", "text": "mantap lek" },
+  { "type": "post",     "text": "Gm devloper to you and you hope me and you" },
+  { "type": "follow",   "screenUrl": "https://x.com/Wawanahayy" },
+  { "type": "bookmark", "tweetUrl": "https://x.com/Wawanahayy/status/1990784465220874440" }
+]
